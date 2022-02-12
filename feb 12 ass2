@@ -1,0 +1,10 @@
+A=int(input())
+B=int(input())
+A=B
+   Print('equal')
+Else:
+   Print('Not equal')
+If(a>b):
+   Print('a is greater than b')
+Else:
+   Print('a is smaller than b')
